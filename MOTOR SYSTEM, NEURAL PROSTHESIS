@@ -1,0 +1,37 @@
+ 
+Citation- 
+1.	Grill WM. Electrical Activation of Spinal Neural Circuits: Application to Motor‐System Neural Prostheses. Neuromodulation: Technology at the Neural Interface. 2000 Apr;3(2):97-106.
+2.	Davis R, Houdayer T, Andrews B, Emmons S, Patrick J. Paraplegia: prolonged closed-loop standing with implanted nucleus FES-22 stimulator and Andrews' foot-ankle orthosis. Stereotactic and functional neurosurgery. 1997;69(1-4):281-7.
+3.	Iwahara T, Atsuta Y, Garcia-Rill E, Skinner RD. Spinal cord stimulation-induced locomotion in the adult cat. Brain research bulletin. 1992 Jan 1;28(1):99-105.
+4.	Woolf CJ, Wall PD. Relative effectiveness of C primary afferent fibers of different origins in evoking a prolonged facilitation of the flexor reflex in the rat. Journal of Neuroscience. 1986 May 1;6(5):1433-42.
+
+Motor prosthesis to date has used electrodes to excite LOWER-MOTOR NEURON. (Accessing Nervous system at the ‘’ lowest possible level’’).
+Interfacing Nervous system at this level presents fundamental problems-
+1.	Requires Implantation and maintenance of large number of electrodes and associated stimulation Hardware.
+2.	Methods must be developed to co-ordinate artificially the timing and levels of muscle contraction produce functional movements.
+3.	Activation of motor system at lowest levels leads to unnatural patterns of activation. 
+(eg- recruitment of large-force producing, rapidly fatiguing motor units by extracellular stimulation leads to difficulty in force regulation and fatigue. 
+To restore complex motor functions it may be beneficial to access the nervous system at ‘’Higher levels’’ UPPER MOTOR NEURON and use the intact Neural circuitry to control individual element of Motor system.
+Activation of Spinal neural circuitry, generating co-ordinated muscle activity. Evidence supports that Spinal locomotor control circuits are present in humans and are maintained after spinal cord injury
+Dr. Burke’s question- How to exploit the co-ordinated movements contained by spinal cord circuits of patients with functionally isolated spinal cord.
+There are two ways to activate electrically Spinal neural circuitry-
+1.	Intra-spinal micro-stimulation enables direct activation of spinal neurons
+2.	Afferent inputs make synaptic contacts on spinal neurons and this provide a pathway to access Spinal Neural Circuit.
+
+
+Intraspinal Microstimulation for Control of Reaching-Like Limb Movements
+. Giszter et al.(19) demonstrated that microstimulation of the gray matter in spinal frogs, generated organized patterns of endpoint forces (force fields) which were similar in structure to end-point force patterns generated during natural motor behaviors.
+Co-stimulation of independent sites generated superposition of individual force fields and new points of convergence.
+The endpoint forces elicited by intraspinal microstimulation (0.5s train of 40Hz 10-100micro Ampere, 100mili sec, biphasic current pulses) of L5-L7 spinal cord were measure in adult cats. The femur was fixed, endplate force vectors in the sigittal plane were measured at9-12 positions of the hinflimb, and intramuscular electromyogram were recorded from 4 hindlimb muscles; biceps femoros, vastus medialis or lateralis, tibialis anterior and medial gastrocnemius. EMG records indicated that the convergent fields (active endpoint force is zero) were produced by co-activation od multiple muscles. In contrast, while the magnitude of endpoint forces evoked by ventral microstimulation varied with limb position, their directions were largely invariant, and the resulting force fields were parallel or divergent.
+Afferent Stimulation to Evoke the Flexion Reflex 
+Peripheral nerves make widespread connection to segmental spinal neurons.
+Stimulation of Common Peroneal Nerve has been used to treat foot drop, a condition characterized by the inability to dorsiflex the ankle and raise the toes and foot off the ground during the swing phase. Stimulation of this nerve has provided flexion of the swing leg during gait. Thus, stimulation of Peroneal afferent fibers, with a single electrode, evokes an organized multi-muscle, multiple-joint motor response.
+
+Habituation 
+This has been the most challenging aspect of exploting the flexion reflex.
+Several approaches have been developed to overcome habituation-
+1.	Stimulation of alternative sites
+2.	Modification in stimulus parameters
+3.	Reflex facilitation by electrical activation of c-fibers
+
+ 
